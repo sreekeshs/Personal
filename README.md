@@ -2,10 +2,10 @@
 
 Final versions of completed projects. 
 
-# GAIA 
+### GAIA 
 
 Only works with Microsoft Kinect 
 
-# The Hole 
+### The Hole 
 
 Only works with Oculus Rift
