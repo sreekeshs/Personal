@@ -1,4 +1,11 @@
 # Personal 
 
-Upload personal project/files for later. 
-Transfer files without usb.
+Final versions of completed projects. 
+
+# GAIA 
+
+Only works with Microsoft Kinect 
+
+# The Hole 
+
+Only works with Oculus Rift
