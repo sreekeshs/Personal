@@ -21,3 +21,5 @@ Only works with Microsoft Kinect.
 ### The Hole 
 
 Enjoy exploring the village and the various objects inhabiting it. Outside the gates is the forest leading up to the hole. You have free reign to explore as you wish, but in order to progress the game you must follow the instructions of the hole. There are seven days, each day having a different set of objects that the hole demands. You must pick up these objects and feed them to the hole. Upon doing so, the next day will begin.
+
+To be used with Oculus Rift.
