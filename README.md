@@ -4,13 +4,7 @@ Final versions of completed projects. Runnable executable or samples, no code. C
 
 ### Drone-Delivered Nalaxone System 
 
-We	are	in	an	opioid	crisis	killing	more	than	63,000	Americans	a	year.	An	opioid	over-dose kills	by	causing	
-the	victim	to	stop	breathing	and,	within	2-5	minutes,	if	not	reversed	by	a	naloxone	antidote,	the	heart	
-stops	 beating	 resulting	 in	 death. It	 is	 often	 not	 physically	 possible	 (especially	 in	 suburban	 and	 rural	
-areas),	 nor	 cost-effectively	 feasible,	 to	 get	 Emergency	 Medical	 Services	 (EMS)	 first	 responders	 to	 the	
-scene	 to	 administer	 the	 antidote	 quickly	 enough	 to	 save	 most	 victims	 once	 they	 stop	 breathing. The	
-potential	use	of	drones	 to	get	a	life-saving	naloxone	antidote to	a	layperson	at	 the	scene	of	an opioid	
-over-dose is	the	new	frontier	in	emergency	care.
+The objective of this project was to construct a system to field test the concept of delivering life saving medical devices, mainly the opioid overdose reversal medication Narcan​R ​(naloxone HCl), to a bystander in the City of Richmond. Richmond is 62 square miles with a mean radius of 4 miles. After a 911 call is made in Richmond, an ambulance dispatched from Richmond Ambulance Authority (RAA) will take on average 6 minutes to arrive on scene. Our Unmanned Aircraft System (UAS) could arrive on scene anywhere in the city in under 2 minutes. Those minutes are crucial to survival since for every 1 minute after the heart stops life expectancy is reduced by 10%.
 
 ### GAIA 
 
