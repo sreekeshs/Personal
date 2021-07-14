@@ -19,4 +19,4 @@ Enjoy exploring the village and the various objects inhabiting it. Outside the g
 To be used with Oculus Rift.
 
 
-#### Archived Repository
+#### Note: Archived Repository
